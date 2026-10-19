@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Mahendra 👋
 
-<!--
-**MogaralaMahendra2005/MogaralaMahendra2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & ML Student | Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+I'm a B.Tech student in Artificial Intelligence and Machine Learning, focused on building practical web applications and exploring AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech in Artificial Intelligence and Machine Learning
+- 💻 Currently strengthening HTML, CSS and JavaScript
+- 🐍 Building projects with Python and Flask
+- 🤖 Interested in AI/ML and full-stack development
+- 🎯 Goal: Become a software developer and contribute to real-world projects
+
+## 🛠️ Technical Skills
+
+**Frontend:** HTML, CSS, JavaScript (learning)
+
+**Programming:** Python
+
+**Backend:** Flask
+
+**Database:** SQL
+
+**Tools:** Git, GitHub, VS Code
+
+## 🚀 Featured Projects
+
+### AI-Based Translator
+A translation application built using Python and Flask.
+
+### AI FAQ Chatbot
+A chatbot application designed to answer frequently asked questions.
+
+### Object Detection
+An object detection project using YOLOv8 and OpenCV.
+
+### Café Website
+A frontend project focused on website layout and styling.
+
+*See my pinned repositories below for project source code and details.*
+
+## 🤝 Connect With Me
+
+- GitHub:https://github.com/MogaralaMahendra2005
+- LinkedIn: https://www.linkedin.com/in/mogarala-mahendra-227713350/
+
+---
+
+*Learning by building, one project at a time.*
